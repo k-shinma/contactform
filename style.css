@@ -1,0 +1,30 @@
+h1{
+    margin: 0 auto;
+    width: 495px;
+    height: 50px;
+    border-left:5px solid red;
+    background-color:lightgray
+}
+
+
+.form-container{
+    margin: 0 auto;
+    margin-top: 20px;
+    line-height: 30px;
+    padding-left: 5px;
+    padding-bottom: 20px;
+    background-color: lightgray;
+    border: 3px gray solid;
+    border-radius: 5px;
+    width: 500px;
+}
+
+.submit{
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color:white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: solid 2px gray;
+
+}
